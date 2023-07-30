@@ -13,7 +13,7 @@ Tkinter (usually included in Python installations)
 MySQL Connector (MySQL Connector/Python) - Install using: pip install mysql-connector-python
 Installation
 Clone the repository: git clone https://github.com/waqasahmad713/Waqas-hospital-system.git
-Navigate to the project directory: cd hospital-management
+Navigate to the project directory: Waqas_hospital_system
 Install the required dependencies as mentioned in the "Requirements" section above.
 Create a MySQL database named hospital_data and set up the necessary tables. You can use the database_setup.sql script provided in the repository.
 Update the database connection details in the code (Hospital class) to match your MySQL server credentials.
